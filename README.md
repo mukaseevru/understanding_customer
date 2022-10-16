@@ -1,4 +1,4 @@
 # Understanding customer
-School 21 project
+School 21 (Ecole 42) project
 
-RNN, LSTM, CNN, BERT for intent classification (project at School 21 (Sber) / Ecole 42)
+This project is an introduction to deep learning and NLP: recurrent neural nets (RNN), LSTM, Transformer, BERT, CNN
